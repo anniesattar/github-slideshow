@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+my first ever pull yohuuuuu
 Use the left arrow to go back!
